@@ -7,4 +7,4 @@
 
 3 - Generador de Contraseñas - con Python (random y con eleccion de cantidad de caracteres)
 
-4 - Gestor de Libros - con Tkinter y Sqlite 
+4 - Gestor de Libros - con Tkinter y SQLite. 
