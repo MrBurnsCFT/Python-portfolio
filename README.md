@@ -6,3 +6,5 @@
 2 - Bases de Datos: Utilizacion y manejo de Base de Datos con Python y SQLite.
 
 3 - Generador de Contraseñas - con Python (random y con eleccion de cantidad de caracteres)
+
+4 - Gestor de Libros - con Tkinter y Sqlite 
